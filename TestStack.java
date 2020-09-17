@@ -1,9 +1,6 @@
-package Stack;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class TestStack<E> {
     private List<E> list = new ArrayList<>();
